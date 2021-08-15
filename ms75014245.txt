@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "commuzen.me",
+  "Id": "7e1546a2-d57f-42a5-93a4-95e9123d4734"
+}
