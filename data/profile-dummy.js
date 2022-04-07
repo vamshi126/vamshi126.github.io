@@ -1,19 +1,18 @@
 const profileData = {
   title: 'Profile',
-  name: 'John Doe',
-  sub_title: 'Ethical Hacker',
+  name: 'Revilla Sai Vamshi',
+  sub_title: 'B.Tech in Computer Science - 2022',
   about: {
-    intro: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`,
+    intro: '',
     contact: {
-      email: 'asdf@jkl.com',
-      phone: '+1-1001010010',
-      address: 'New York, USA'
+      email: 'vamshi01@yahoo.com',
+      phone: '+91-931713511,
+      address: 'Hyderabad,India'
     }
   },
   links: [
-    { title: 'Google', src: 'https://www.google.com/' },
-    { title: 'Facebook', src: 'https://www.facebook.com/' }
+    { title: 'Linkedin', src: 'https://www.google.com/' },
+    { title: 'Github', src: 'https://www.facebook.com/' }
   ],
   education: [
     {
